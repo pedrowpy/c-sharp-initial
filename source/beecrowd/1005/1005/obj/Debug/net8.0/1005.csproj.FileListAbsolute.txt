@@ -1,0 +1,14 @@
+C:\source\c#\beecrowd\1005\1005\bin\Debug\net8.0\1005.exe
+C:\source\c#\beecrowd\1005\1005\bin\Debug\net8.0\1005.deps.json
+C:\source\c#\beecrowd\1005\1005\bin\Debug\net8.0\1005.runtimeconfig.json
+C:\source\c#\beecrowd\1005\1005\bin\Debug\net8.0\1005.dll
+C:\source\c#\beecrowd\1005\1005\bin\Debug\net8.0\1005.pdb
+C:\source\c#\beecrowd\1005\1005\obj\Debug\net8.0\1005.GeneratedMSBuildEditorConfig.editorconfig
+C:\source\c#\beecrowd\1005\1005\obj\Debug\net8.0\1005.AssemblyInfoInputs.cache
+C:\source\c#\beecrowd\1005\1005\obj\Debug\net8.0\1005.AssemblyInfo.cs
+C:\source\c#\beecrowd\1005\1005\obj\Debug\net8.0\1005.csproj.CoreCompileInputs.cache
+C:\source\c#\beecrowd\1005\1005\obj\Debug\net8.0\1005.dll
+C:\source\c#\beecrowd\1005\1005\obj\Debug\net8.0\refint\1005.dll
+C:\source\c#\beecrowd\1005\1005\obj\Debug\net8.0\1005.pdb
+C:\source\c#\beecrowd\1005\1005\obj\Debug\net8.0\1005.genruntimeconfig.cache
+C:\source\c#\beecrowd\1005\1005\obj\Debug\net8.0\ref\1005.dll
