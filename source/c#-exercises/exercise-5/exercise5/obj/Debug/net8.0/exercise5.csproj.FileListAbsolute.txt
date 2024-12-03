@@ -1,0 +1,14 @@
+C:\source\source\c#-exercises\exercise5\exercise5\obj\Debug\net8.0\exercise5.GeneratedMSBuildEditorConfig.editorconfig
+C:\source\source\c#-exercises\exercise5\exercise5\obj\Debug\net8.0\exercise5.AssemblyInfoInputs.cache
+C:\source\source\c#-exercises\exercise5\exercise5\obj\Debug\net8.0\exercise5.AssemblyInfo.cs
+C:\source\source\c#-exercises\exercise5\exercise5\obj\Debug\net8.0\exercise5.csproj.CoreCompileInputs.cache
+C:\source\source\c#-exercises\exercise5\exercise5\bin\Debug\net8.0\exercise5.exe
+C:\source\source\c#-exercises\exercise5\exercise5\bin\Debug\net8.0\exercise5.deps.json
+C:\source\source\c#-exercises\exercise5\exercise5\bin\Debug\net8.0\exercise5.runtimeconfig.json
+C:\source\source\c#-exercises\exercise5\exercise5\bin\Debug\net8.0\exercise5.dll
+C:\source\source\c#-exercises\exercise5\exercise5\bin\Debug\net8.0\exercise5.pdb
+C:\source\source\c#-exercises\exercise5\exercise5\obj\Debug\net8.0\exercise5.dll
+C:\source\source\c#-exercises\exercise5\exercise5\obj\Debug\net8.0\refint\exercise5.dll
+C:\source\source\c#-exercises\exercise5\exercise5\obj\Debug\net8.0\exercise5.pdb
+C:\source\source\c#-exercises\exercise5\exercise5\obj\Debug\net8.0\exercise5.genruntimeconfig.cache
+C:\source\source\c#-exercises\exercise5\exercise5\obj\Debug\net8.0\ref\exercise5.dll
