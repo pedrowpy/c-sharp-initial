@@ -1,0 +1,14 @@
+C:\Users\Pedro\Desktop\exercise-9\exercise-9\bin\Debug\net8.0\exercise-9.exe
+C:\Users\Pedro\Desktop\exercise-9\exercise-9\bin\Debug\net8.0\exercise-9.deps.json
+C:\Users\Pedro\Desktop\exercise-9\exercise-9\bin\Debug\net8.0\exercise-9.runtimeconfig.json
+C:\Users\Pedro\Desktop\exercise-9\exercise-9\bin\Debug\net8.0\exercise-9.dll
+C:\Users\Pedro\Desktop\exercise-9\exercise-9\bin\Debug\net8.0\exercise-9.pdb
+C:\Users\Pedro\Desktop\exercise-9\exercise-9\obj\Debug\net8.0\exercise-9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\Desktop\exercise-9\exercise-9\obj\Debug\net8.0\exercise-9.AssemblyInfoInputs.cache
+C:\Users\Pedro\Desktop\exercise-9\exercise-9\obj\Debug\net8.0\exercise-9.AssemblyInfo.cs
+C:\Users\Pedro\Desktop\exercise-9\exercise-9\obj\Debug\net8.0\exercise-9.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Desktop\exercise-9\exercise-9\obj\Debug\net8.0\exercise-9.dll
+C:\Users\Pedro\Desktop\exercise-9\exercise-9\obj\Debug\net8.0\refint\exercise-9.dll
+C:\Users\Pedro\Desktop\exercise-9\exercise-9\obj\Debug\net8.0\exercise-9.pdb
+C:\Users\Pedro\Desktop\exercise-9\exercise-9\obj\Debug\net8.0\exercise-9.genruntimeconfig.cache
+C:\Users\Pedro\Desktop\exercise-9\exercise-9\obj\Debug\net8.0\ref\exercise-9.dll
