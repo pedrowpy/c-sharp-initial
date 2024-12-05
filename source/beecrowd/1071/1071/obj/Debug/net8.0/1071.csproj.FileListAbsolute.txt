@@ -1,0 +1,14 @@
+C:\Users\Pedro\Desktop\1071\1071\bin\Debug\net8.0\1071.exe
+C:\Users\Pedro\Desktop\1071\1071\bin\Debug\net8.0\1071.deps.json
+C:\Users\Pedro\Desktop\1071\1071\bin\Debug\net8.0\1071.runtimeconfig.json
+C:\Users\Pedro\Desktop\1071\1071\bin\Debug\net8.0\1071.dll
+C:\Users\Pedro\Desktop\1071\1071\bin\Debug\net8.0\1071.pdb
+C:\Users\Pedro\Desktop\1071\1071\obj\Debug\net8.0\1071.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\Desktop\1071\1071\obj\Debug\net8.0\1071.AssemblyInfoInputs.cache
+C:\Users\Pedro\Desktop\1071\1071\obj\Debug\net8.0\1071.AssemblyInfo.cs
+C:\Users\Pedro\Desktop\1071\1071\obj\Debug\net8.0\1071.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Desktop\1071\1071\obj\Debug\net8.0\1071.dll
+C:\Users\Pedro\Desktop\1071\1071\obj\Debug\net8.0\refint\1071.dll
+C:\Users\Pedro\Desktop\1071\1071\obj\Debug\net8.0\1071.pdb
+C:\Users\Pedro\Desktop\1071\1071\obj\Debug\net8.0\1071.genruntimeconfig.cache
+C:\Users\Pedro\Desktop\1071\1071\obj\Debug\net8.0\ref\1071.dll
