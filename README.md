@@ -26,7 +26,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Repositório criado para descrição e arquivamento de atividades realizadas durante o curso: "C# primeiros passos: Lógica de Programação e Algoritmos", instruído pelo professor Nelio Alves.
+Repositório criado para descrição e arquivamento de atividades realizadas durante o curso: "C# primeiros passos: Lógica de Programação e Algoritmos", instruído pelo professor Nelio Alves na plataforma de ensino Udemy.
 
 
 
