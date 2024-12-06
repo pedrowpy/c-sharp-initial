@@ -1,0 +1,14 @@
+C:\source\source\c#-exercises\exercise-16\exercise-16\bin\Debug\net8.0\exercise-16.exe
+C:\source\source\c#-exercises\exercise-16\exercise-16\bin\Debug\net8.0\exercise-16.deps.json
+C:\source\source\c#-exercises\exercise-16\exercise-16\bin\Debug\net8.0\exercise-16.runtimeconfig.json
+C:\source\source\c#-exercises\exercise-16\exercise-16\bin\Debug\net8.0\exercise-16.dll
+C:\source\source\c#-exercises\exercise-16\exercise-16\bin\Debug\net8.0\exercise-16.pdb
+C:\source\source\c#-exercises\exercise-16\exercise-16\obj\Debug\net8.0\exercise-16.GeneratedMSBuildEditorConfig.editorconfig
+C:\source\source\c#-exercises\exercise-16\exercise-16\obj\Debug\net8.0\exercise-16.AssemblyInfoInputs.cache
+C:\source\source\c#-exercises\exercise-16\exercise-16\obj\Debug\net8.0\exercise-16.AssemblyInfo.cs
+C:\source\source\c#-exercises\exercise-16\exercise-16\obj\Debug\net8.0\exercise-16.csproj.CoreCompileInputs.cache
+C:\source\source\c#-exercises\exercise-16\exercise-16\obj\Debug\net8.0\exercise-16.dll
+C:\source\source\c#-exercises\exercise-16\exercise-16\obj\Debug\net8.0\refint\exercise-16.dll
+C:\source\source\c#-exercises\exercise-16\exercise-16\obj\Debug\net8.0\exercise-16.pdb
+C:\source\source\c#-exercises\exercise-16\exercise-16\obj\Debug\net8.0\exercise-16.genruntimeconfig.cache
+C:\source\source\c#-exercises\exercise-16\exercise-16\obj\Debug\net8.0\ref\exercise-16.dll
