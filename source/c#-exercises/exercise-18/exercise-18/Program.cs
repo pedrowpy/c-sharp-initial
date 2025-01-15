@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace exercise18
 {
@@ -21,7 +21,6 @@ namespace exercise18
             }
 
             int[] vet = new int[M];
-
             for (int i = 0; i < M; i++) {
                 int soma = 0;
                 for (int j = 0; j < N; j++) {
